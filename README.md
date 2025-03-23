@@ -85,6 +85,8 @@ Zacznij kręcić pokrętłem. W zależności od tego, jak zmienia się wartość
 - Dostosuj ustawienia pokrętła w zależności od wyników pomiarów. Jeśli czujnik reaguje zbyt czuło lub za mało, ponownie dostosuj ustawienia.
 
 ## 🧠 **Przykład danych w Serial Monitorze:**
+![image](https://github.com/user-attachments/assets/719b9327-f257-48c6-baeb-60f4f4f14dc6)
+
 ```cpp
 ========== MONITOR POWIETRZA ==========
 ADC: 512 | Napięcie: 1.65 V
